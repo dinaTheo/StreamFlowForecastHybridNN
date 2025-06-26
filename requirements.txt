@@ -1,0 +1,13 @@
+tensorflow
+pandas
+scikit-learn
+numpy
+hydroeval
+kymatio
+# netCDF4
+# matplotlib
+# pyarrow
+# scipy
+# seaborn
+# shap
+# xarray
